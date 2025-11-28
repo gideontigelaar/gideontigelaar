@@ -6,4 +6,4 @@ My interest in programming started at age 11, when I began creating simple games
 ## Experienced with...
 Languages, frameworks, software and more.
 
-[![Experiences](https://skillicons.dev/icons?i=php,mysql,postgresql,html,css,bootstrap,js,cpp,cmake,python,cs,unity,nextjs,wordpress,arduino&perline=5)](https://gideontigelaar.com)
+[![Experiences](https://skillicons.dev/icons?i=php,mysql,postgresql,html,css,js,bootstrap,cpp,cmake,python,cs,unity,nextjs,wordpress,arduino&perline=5)](https://gideontigelaar.com)

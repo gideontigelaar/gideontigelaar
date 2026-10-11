@@ -6,22 +6,22 @@ My interest in programming started at age 11, when I began creating simple games
 ## Experienced with...
 Languages, frameworks, software and more.
 
-<p align="left">
-  <img src="./icons/php.svg" width="60" alt="PHP" />
-  <img src="./icons/mysql.svg" width="60" alt="MySQL" />
-  <img src="./icons/bootstrap.svg" width="60" alt="Bootstrap" />
-  <img src="./icons/tailwindcss.svg" width="60" alt="TailwindCSS" />
-  <img src="./icons/git.svg" width="60" alt="Git" />
+<p>
+  <a href="https://gideontigelaar.com" style="text-decoration: none;"><img src="./icons/php.svg" width="60" alt="PHP" /></a>
+  <a href="https://gideontigelaar.com" style="text-decoration: none;"><img src="./icons/mysql.svg" width="60" alt="MySQL" /></a>
+  <a href="https://gideontigelaar.com" style="text-decoration: none;"><img src="./icons/bootstrap.svg" width="60" alt="Bootstrap" /></a>
+  <a href="https://gideontigelaar.com" style="text-decoration: none;"><img src="./icons/tailwindcss.svg" width="60" alt="TailwindCSS" /></a>
+  <a href="https://gideontigelaar.com" style="text-decoration: none;"><img src="./icons/git.svg" width="60" alt="Git" /></a>
   <br>
-  <img src="./icons/cpp.svg" width="60" alt="C++" />
-  <img src="./icons/cmake.svg" width="60" alt="CMake" />
-  <img src="./icons/java.svg" width="60" alt="Java" />
-  <img src="./icons/python.svg" width="60" alt="Python" />
-  <img src="./icons/flask.svg" width="60" alt="Flask" />
+  <a href="https://gideontigelaar.com" style="text-decoration: none;"><img src="./icons/cpp.svg" width="60" alt="C++" /></a>
+  <a href="https://gideontigelaar.com" style="text-decoration: none;"><img src="./icons/cmake.svg" width="60" alt="CMake" /></a>
+  <a href="https://gideontigelaar.com" style="text-decoration: none;"><img src="./icons/java.svg" width="60" alt="Java" /></a>
+  <a href="https://gideontigelaar.com" style="text-decoration: none;"><img src="./icons/python.svg" width="60" alt="Python" /></a>
+  <a href="https://gideontigelaar.com" style="text-decoration: none;"><img src="./icons/flask.svg" width="60" alt="Flask" /></a>
   <br>
-  <img src="./icons/raspberrypi.svg" width="60" alt="Raspberry Pi" />
-  <img src="./icons/cs.svg" width="60" alt="C#" />
-  <img src="./icons/unity.svg" width="60" alt="Unity" />
-  <img src="./icons/javascript.svg" width="60" alt="JavaScript" />
-  <img src="./icons/assembly.svg" width="60" alt="Assembly" />
+  <a href="https://gideontigelaar.com" style="text-decoration: none;"><img src="./icons/raspberrypi.svg" width="60" alt="Raspberry Pi" /></a>
+  <a href="https://gideontigelaar.com" style="text-decoration: none;"><img src="./icons/cs.svg" width="60" alt="C#" /></a>
+  <a href="https://gideontigelaar.com" style="text-decoration: none;"><img src="./icons/unity.svg" width="60" alt="Unity" /></a>
+  <a href="https://gideontigelaar.com" style="text-decoration: none;"><img src="./icons/javascript.svg" width="60" alt="JavaScript" /></a>
+  <a href="https://gideontigelaar.com" style="text-decoration: none;"><img src="./icons/assembly.svg" width="60" alt="Assembly" /></a>
 </p>
